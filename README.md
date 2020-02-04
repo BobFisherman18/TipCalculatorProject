@@ -20,10 +20,6 @@ Here's a walkthrough of implemented user stories:
 
 GIF created with [Imgur](https://imgur.com).
 
-## Notes
-
-Describe any challenges encountered while building the app.
-
 ## License
 
     Copyright [2020] [Jonah Rivera]
